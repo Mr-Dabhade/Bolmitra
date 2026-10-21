@@ -1,0 +1,11 @@
+{
+  "name": "BolMitra - AI English Partner in Marathi",
+  "description": "Your AI English speaking companion that chats in English, explains in Marathi, and offers real-time grammatical corrections and pronunciation tips.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
